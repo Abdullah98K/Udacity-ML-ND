@@ -5,9 +5,11 @@ The course consists of the three main ML topics, plus model evaluation and valid
 **Model Evaluation and Validation**
 
  *Model evaluation*
+ 
  Confusion matrix, scoring: precision, recall, fbeta, ROC, R2 (coefficient of variation)
  
  *Model Validation*
+ 
  High variance and bias problems, cross validation , learning curves, grid search, randomized search
  
 **Supervised Learning**
