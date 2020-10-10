@@ -6,15 +6,15 @@ The course consists of the three main ML topics, plus model evaluation and valid
 
  *Model evaluation:*
  
- Confusion matrix, scoring: precision, recall, fbeta, ROC, R2 (coefficient of variation)
+ Confusion matrix, scoring: precision, recall, fbeta, ROC, R2.
  
  *Model Validation:*
  
- High variance and bias problems, cross validation , learning curves, grid search, randomized search
+ High variance and bias problems, cross validation , learning curves, grid search, randomized search.
  
 **Supervised Learning**
 
-topics covered in this section:
+Topics covered in this section:
   * Linear Regression
   * Logistic Regression
   * Decision Trees
@@ -22,8 +22,22 @@ topics covered in this section:
 
 **Neural Networks**
 
-WIP
+Topics covered in this section:
+
+Perceptron trick, perceptron algorithm, sigmoid activation, maximum likelihood, cross entropy, logistic regression, perceptron and gradient descent
+Deep neural networks.
+Regularization, dropout, vanishing gradients and activation function, momentum, keras optimisers.
+Model validation, image augmentation using TensorFlow.
 
 **Unsupervised Learning**
 
-WIP
+Topics covered in this section:
+
+K-means clustering.
+Hierarchical and density-based clustering.
+Hierarchical clustering, single-link clustering, complete-link clustering, average-link clustering, ward's method, DB scan.
+Gaussian mixture model and cluster validation.
+EM algorithm, cluster validation, external indices, internal indices, adjusted rand indices, silhouette coefficient.
+Feature scaling.
+PCA.
+Random projection and ICA.
